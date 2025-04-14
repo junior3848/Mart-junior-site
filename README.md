@@ -36,7 +36,7 @@ We need to use a blog-ready theme. For this activity, we will use a theme named 
 1. In the upper right corner, open the file editor.
 1. Add a `theme:` set to **minima** so it shows in the `_config.yml` file as below:
    ```yml
-   theme: minima
+   theme: minima mart
    ```
 1. (optional) You can modify the other configuration variables such as `title:`, `author:`, and `description:` to further customize your site.
 1. Commit your changes.
